@@ -1,0 +1,16 @@
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\bin\Debug\net5.0\MikasGrigonis.NET.exe
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\bin\Debug\net5.0\MikasGrigonis.NET.deps.json
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\bin\Debug\net5.0\MikasGrigonis.NET.runtimeconfig.json
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\bin\Debug\net5.0\MikasGrigonis.NET.runtimeconfig.dev.json
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\bin\Debug\net5.0\MikasGrigonis.NET.dll
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\bin\Debug\net5.0\ref\MikasGrigonis.NET.dll
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\bin\Debug\net5.0\MikasGrigonis.NET.pdb
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\obj\Debug\net5.0\MikasGrigonis.NET.csproj.AssemblyReference.cache
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\obj\Debug\net5.0\MikasGrigonis.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\obj\Debug\net5.0\MikasGrigonis.NET.AssemblyInfoInputs.cache
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\obj\Debug\net5.0\MikasGrigonis.NET.AssemblyInfo.cs
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\obj\Debug\net5.0\MikasGrigonis.NET.csproj.CoreCompileInputs.cache
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\obj\Debug\net5.0\MikasGrigonis.NET.dll
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\obj\Debug\net5.0\ref\MikasGrigonis.NET.dll
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\obj\Debug\net5.0\MikasGrigonis.NET.pdb
+C:\Users\grigm\RiderProjects\MikasGrigonis.NET\MikasGrigonis.NET\obj\Debug\net5.0\MikasGrigonis.NET.genruntimeconfig.cache
